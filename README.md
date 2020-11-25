@@ -1,0 +1,2 @@
+# ngw_contract
+contract
